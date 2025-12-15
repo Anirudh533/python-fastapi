@@ -55,3 +55,5 @@ This keeps the authentication flow secure, simple, and low-overhead.
 
 ## Goal
 Demonstrate how to build a **secure, production-grade REST API** with clean architecture, sensible trade-offs, and strong security defaults.
+
+
